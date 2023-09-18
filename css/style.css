@@ -1,12 +1,19 @@
 body {
   font-family: 'Montserrat', sans-serif;
+  background-color: aliceblue;
+  margin: 0; 
 }
 
 nav ul {
   list-style: none;
   padding-left: 0;
+  background-color: #fbdd64;
 }
 
 nav a{
 padding: 1rem;
+display: block;
+text-decoration: none;
+color: #1d161e
 }
+
